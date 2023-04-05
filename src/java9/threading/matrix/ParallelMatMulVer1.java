@@ -20,6 +20,7 @@ public class ParallelMatMulVer1 {
         }
 
         /**
+         * Comment:
          Join is a synchronization method that blocks the calling thread
          (that is, the thread that calls the method) until the thread whose
          Join method is called has completed.
